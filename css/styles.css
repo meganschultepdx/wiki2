@@ -1,9 +1,6 @@
-#outer {
-  background-color: tan;
-  height: 10px;
-}
 
-#left {
+
+#nav{
   background-color: brown;
 }
 
@@ -15,4 +12,14 @@ img {
 h1 {
   padding-left: 200px;
   color: blue;
+}
+
+#id {
+  margin-left: 20px;
+}
+
+.col-sm-2 {
+  width: 150px;
+  height: 100%;
+  background-color: tan;
 }
