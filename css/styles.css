@@ -2,18 +2,17 @@
   background-color: tan;
   height: 10px;
 }
+
 #left {
   background-color: brown;
 }
+
 img {
-  width: 50px;
-  height: 50px;
+  width: 130px;
+  height: 130px;
 }
+
 h1 {
   padding-left: 200px;
-
-}
-
-h1 {
   color: blue;
 }
